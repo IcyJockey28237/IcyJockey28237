@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Prakhar
-- 👀 I’m interested in Coding and Gaming 
-- 🌱 I’m currently learning Python and Frontend
-- 💞️ I’m looking to collaborate on ...
+👋 Hi, I’m Prakhar Sahu
+
+💻 B.Tech ECE graduate with hands-on experience in Python and frontend development.
+
+🛠️ I work with Python, JavaScript, React, HTML, CSS, and MySQL to build practical, real-world applications.
+
+📌 Currently exploring frontend development and improving my skills through projects and an ongoing internship.
+
+🚀 Interested in building scalable web applications and secure software solutions.
+
 
 <!---
 IcyJockey28237/IcyJockey28237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
